@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\helal\helal\bin\Debug\helal.exe
+C:\Users\User\Desktop\helal\helal\bin\Debug\helal.pdb
+C:\Users\User\Desktop\helal\helal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\helal\helal\obj\Debug\helal.Form1.resources
+C:\Users\User\Desktop\helal\helal\obj\Debug\helal.Properties.Resources.resources
+C:\Users\User\Desktop\helal\helal\obj\Debug\helal.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\helal\helal\obj\Debug\helal.exe
+C:\Users\User\Desktop\helal\helal\obj\Debug\helal.pdb
+C:\Users\User\Desktop\helal\helal\bin\Debug\System.Data.SQLite.xml
